@@ -148,7 +148,7 @@ st.markdown("""
     <div class="fixed-title">
         <h1>⚖️ ACE Advisory Legal Chatbot</h1>
         <div class="description">
-            Ask your legal questions in English and get responses in Bangla.
+            Ask away—legal help is just a chat away!
         </div>
     </div>
     """, unsafe_allow_html=True)
