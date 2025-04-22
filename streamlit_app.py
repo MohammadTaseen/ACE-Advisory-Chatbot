@@ -213,4 +213,4 @@ st.markdown('</div>', unsafe_allow_html=True)
 # Clear chat button
 if st.button("Clear Chat", key="clear_chat"):
     st.session_state.messages = []
-    st.rerun() 
+    st.rerun()
